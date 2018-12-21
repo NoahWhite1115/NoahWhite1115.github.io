@@ -35,7 +35,7 @@ h1{
   width: 20%;
 }
 
-li a {
+.navigation li a{
   display: block;
   color: white;
   text-align: center;
@@ -45,11 +45,11 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+.navigation li a:hover {
   background-color: #111;
 }
 
-.selected {
+#selected{
   text-decoration: underline;
 }
 

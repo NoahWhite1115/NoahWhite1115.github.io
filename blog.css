@@ -1,0 +1,37 @@
+.main ul{
+  list-style-type: none;
+  display: inline-block;
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+}
+
+.main h2{
+  font-size: 30px;
+  margin: 15px 0px 20px 0px;
+}
+
+.main h3{
+  font-size: 20px;
+  margin: 0px;
+}
+
+.main p{
+  font-size: 17px;
+  margin: 10px 0px 10px 0px;
+}
+
+
+.main a{
+  color:black;
+  text-decoration: none;
+}
+
+.main a:visited {
+  color:black;
+  text-decoration: none;
+}
+
+.main a:hover {
+  text-decoration: underline;
+}

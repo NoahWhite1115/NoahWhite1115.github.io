@@ -3,15 +3,31 @@
   margin: 10px;
 }
 
+.main .row{
+  display: flex;
+}
+
 .main .row .project{
-  display: inline-block;
   width: 30%;
   margin: 10px 1.5%;
-  float: top;
 }
 
 .main img{
   width: 100%;
   height: 250px;
   border-radius: 10%;
+}
+
+.main a{
+  color:black;
+  text-decoration: underline;
+}
+
+#last{
+  margin: 0px 10%; 
+}
+
+#last .project{
+  width: 40%;
+  margin: 10px 5%;
 }

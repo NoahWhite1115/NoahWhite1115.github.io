@@ -1,0 +1,46 @@
+.main h3{
+  font-size: 25px;
+  margin: 10px;
+}
+
+.main h4{
+  font-size: 17px;
+  margin-top: 0px;
+  margin-bottom: 7px;
+}
+
+.main ul{
+  list-style-type: none;
+  padding: 0px 20%;
+  margin: 0px;
+  text-align: left;
+}
+
+.main li{
+  margin: 0px 0px 20px 0px;
+}
+
+.main li:last-child{
+  margin: 0px 0px 10px 0px;
+}
+
+.main p{
+  margin: 5px 0px;
+  padding-left: 40px;
+}
+
+.main p:first-child{
+  padding-left: 0px;
+}
+
+.main table{
+  display: inline;
+}
+
+.main td{
+  text-align: left;
+}
+
+.main td:first-child{
+  padding-right: 100px;
+}

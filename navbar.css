@@ -1,7 +1,9 @@
 body{
   margin: 0px;
+  font-family: 'Thasadith', sans-serif;
   /*font-family: 'Roboto Mono', monospace;*/
   font-family: 'Inconsolata', monospace;
+  
 }
 
 h1{

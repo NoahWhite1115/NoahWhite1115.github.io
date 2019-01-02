@@ -15,24 +15,20 @@
   margin: 0px;
 }
 
-.main h4{
-  font-size: 15px;
-  margin: 0px;
-}
-
 .main p{
   font-size: 17px;
   margin: 10px 0px 25px 0px;
 }
 
 .main ul ul{
-  display: inline-block;
+  display: inline;
   list-style-type: disc;
-  margin: 10px 0px 0px 0px;
   text-align: left;
 }
 
-
+.main ul ul li{
+  padding: 0px 20%;
+}
 
 .main a{
   color:black;

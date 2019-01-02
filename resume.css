@@ -44,3 +44,7 @@
 .main td:first-child{
   padding-right: 100px;
 }
+
+.main tr:last-child td{
+  padding-bottom: 20px;
+}
